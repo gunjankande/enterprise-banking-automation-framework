@@ -10,4 +10,5 @@ class DashboardPage(BasePage):
             name="New Account",
         )
 
-    
+    def open_new_account(self):
+        self.new_account_button.click()
