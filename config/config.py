@@ -1,1 +1,1 @@
-BASE_URL = "https://www.qacloud.dev/bank/login"
+BASE_URL = "https://www.qacloud.dev/app-login.html?user=playwrightbanking&app=bank"
